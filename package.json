@@ -9,6 +9,7 @@
   "author": "Julie",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.17.1",
     "node": "^14.5.0",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.6"
